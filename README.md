@@ -1,7 +1,11 @@
 <!--
 ### Hi there 👋
 -->
-![Alt Text](https://github.com/caglaryalcin/caglaryalcin/blob/main/browser.gif)
+
+
+![alt-text-1](https://github.com/caglaryalcin/caglaryalcin/blob/main/browser.gif "title-1") ![alt-text-2](https://github-readme-stats.vercel.app/api?username=caglaryalcin&show_icons=true&theme=dark "title-2")
+
+
 <!--
 **caglaryalcin/caglaryalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
